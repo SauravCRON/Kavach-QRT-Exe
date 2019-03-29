@@ -25,12 +25,17 @@ How to Use Executable
 /*======================================================================*/
 
 1. Clone or Download the Repository
+
 2. For executing Kavach Z:
+
 $ sudo chmod 777 kavach_z
+
 $ sudo ./kavach_z <IP of KavachZ>
 
 3. For executing QRT Z:
+
 $ sudo chmod 777 qrt_z
+
 $ sudo ./qrt_z <IP of QrtZ>
 
 4. Please note that both executables only run on Ubuntu 16.04 LTS
